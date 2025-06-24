@@ -10,7 +10,7 @@
 
 Hey there! I'm **Md. Mahfuzar Rahman Munna**, a highly motivated and detail-oriented web developer with a strong foundation in the MERN stack (MongoDB, Express.js, React, Node.js) and Firebase ecosystem. Currently pursuing my Diploma in Computer Science & Engineering, I’m driven by a deep passion for solving real-world problems through code and clean UI/UX design.
 
-I thrive in dynamic environments where I can build, learn, and grow. My development style focuses on performance, accessibility, and maintainable code. From crafting responsive frontend interfaces to integrating secure backend APIs, I enjoy working across the full development lifecycle.
+I improve in dynamic environments where I can build, learn, and grow. My development style focuses on performance, accessibility, and maintainable code. From crafting responsive frontend interfaces to integrating secure backend APIs, I enjoy working across the full development lifecycle.
 
 I’m also ambitiously preparing to pursue my **BSc in CSE in Japan under the prestigious MEXT scholarship**, with the vision of contributing to global tech innovations while staying rooted in real-world needs.
 
