@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on a full-stack Course Management System using React, Firebase, Express, and MongoDB.
+👯 I’m looking to collaborate on open source projects and MERN-based real-world applications.
+🤝 I’m looking for help with advanced backend security, testing, and optimizing large-scale React projects.
+🌱 I’m currently learning Next.js, TypeScript, API rate limiting, and testing with Jest.
+💬 Ask me about React, Firebase Auth, Tailwind CSS, JWT (custom or Firebase), MongoDB, and Express.js.
+⚡ Fun fact: I love turning clean UI into real, functional web apps & I debug better with music 🎧.
 
 
 ## 🌐 Socials:
