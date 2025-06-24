@@ -25,6 +25,17 @@ I’m also ambitiously preparing to pursue my **BSc in CSE in Japan under the pr
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mdmahfuzarrahmanmunna44@gmail.com)
 ---
 
+## 🚀 I’m Exploring
+
+- ⚡ **Next.js** – building fast, production-ready React apps with SSR and routing
+- 💡 **TypeScript** – writing safer, scalable JavaScript with strong typing
+- 🔐 **JWT & Role-Based Auth** – improving API security and user management
+- 🌍 **Leaflet.js** – working with interactive maps and geo-based data
+- 📦 **MongoDB Aggregation** – handling complex queries and analytics
+- 🎨 **Framer Motion** – adding smooth animations to modern UIs
+
+---
+
 ### 🔭 Current Activities
 
 - 🌱 Learning **Next.js** and **TypeScript**
