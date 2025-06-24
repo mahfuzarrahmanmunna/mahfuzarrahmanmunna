@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.ibb.co/vyckRFD/banner-github-mahfuzar-rahman-munna-web-developer-mern-stack.png" alt="Banner" style="width:100%;" />
+<img src="https://i.ibb.co/ynwXbwLP/banner-github-mahfuzar-rahman-munna-web-developer-mern-stack.png" alt="Banner" style="width:100%;" />
 
 # 💻 Md. Mahfuzar Rahman Munna
 ### MERN Stack Developer | Firebase Enthusiast | Aspiring MEXT Scholar
