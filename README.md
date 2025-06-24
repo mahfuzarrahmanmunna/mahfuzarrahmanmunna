@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-Hello! I'm Munna, a passionate web developer currently studying Diploma in CSE. I enjoy building modern web applications using the MERN stack. I'm dedicated to continuous learning, and currently aiming for the MEXT Scholarship to pursue higher studies in Japan.
+Hello! I'm Md. Mahfuzar Rahman Munna, a passionate web developer currently studying Diploma in CSE. I enjoy building modern web applications using the MERN stack. I'm dedicated to continuous learning, and currently aiming for the MEXT Scholarship to pursue higher studies in Japan.
 
 ---
 
