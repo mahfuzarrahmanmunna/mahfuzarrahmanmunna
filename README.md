@@ -109,10 +109,4 @@ I’m also ambitiously preparing to pursue my **BSc in CSE in Japan under the pr
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=✨+Thank+You+for+visiting+my+GitHub+profile!+✨" alt="Thank you typewriter" />
-</p>
 
-<p align="center">
-  <img src="https://i.gifer.com/B3IK.gif" width="100%" alt="Animated background" />
-</p>
