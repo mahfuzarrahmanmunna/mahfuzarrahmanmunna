@@ -1,30 +1,31 @@
 <!-- Banner -->
-<img src="https://your-banner-image-link.com/banner.png" alt="Banner" />
+<img src="https://your-banner-image-link.com/banner.png" alt="Banner" style="width:100%; border-radius: 10px;" />
 
 # 💻 Md. Mahfuzar Rahman Munna  
-### MERN Stack Developer | Firebase Enthusiast
+### MERN Stack Developer | Firebase Enthusiast | Aspiring MEXT Scholar
 
 ---
 
 ## 🧑‍💻 About Me
 
-Hello! I'm Md. Mahfuzar Rahman Munna, a passionate web developer currently studying Diploma in CSE. I enjoy building modern web applications using the MERN stack. I'm dedicated to continuous learning, and currently aiming for the MEXT Scholarship to pursue higher studies in Japan.
+Hello! I'm Munna, a passionate and dedicated web developer currently studying Diploma in Computer Science & Engineering. I love building user-friendly, fast, and secure full-stack web applications using the MERN stack. I dream of pursuing a BSc in CSE in Japan through the MEXT scholarship.
 
 ---
 
 ### 🔭 Current Activities
 
-- 🌱 I’m currently learning **Next.js** and **TypeScript**
-- 🛠️ I’m working on a **Course Management System**
+- 🌱 Learning **Next.js** and **TypeScript**
+- 🛠 Working on a **Course Management System**
+- 🎯 Building a **Door-to-Door Parcel Delivery** app
 - 🚀 Preparing for the **MEXT scholarship**
-- 🧩 Exploring **JWT authentication and API security**
+- 🔐 Exploring **JWT authentication & Firebase security**
 
 ---
 
 ## 🧰 My Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,figma" />
 </p>
 
 ---
@@ -39,42 +40,46 @@ Hello! I'm Md. Mahfuzar Rahman Munna, a passionate web developer currently study
 
 ## 📊 GitHub Stats
 
-![mahfuzarrahmanmunna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Munna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfuzarrahmanmunna&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzarrahmanmunna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahfuzarrahmanmunna&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ## 📌 Pinned Projects
 
 ### 🔐 Firebase Auth App
-Live: https://auth-app.web.app  
-Tech: React, Firebase, Tailwind
+- Live: [https://auth-app.web.app](https://auth-app.web.app)  
+- Tech Stack: React, Firebase, Tailwind CSS  
+- Simple login & registration using Firebase Auth (email + Google), private routes, and real-time error handling.
 
 ---
 
-### 🏫 Course Management System  
-Live: https://course-mgmt.web.app  
-Tech: React, Firebase, Express, MongoDB
+### 🏫 Course Management System
+- Live: [https://course-mgmt.web.app](https://course-mgmt.web.app)  
+- Tech Stack: React, Firebase, Express, MongoDB  
+- Users can register/login, post & enroll in courses, track seats, and admin roles. Includes authentication and dark/light theme.
 
 ---
 
-### 🚚 Door-to-Door Parcel Delivery  
-Live: https://parcel-app.web.app  
-Tech: React, Firebase, Leaflet, Node.js
+### 🚚 Parcel Delivery Web App
+- Live: [https://parcel-app.web.app](https://parcel-app.web.app)  
+- Tech Stack: React, Firebase, Leaflet, Node.js  
+- Users can create/send parcels, see service areas on map, calculate cost, and track delivery with a unique ID.
 
 ---
 
-> 📌 For each pinned repo, make sure the individual README contains:
-> - Project overview
+> 🔗 Each of these projects has a detailed README with:
+> - Overview
 > - Screenshot (optional)
-> - Main technologies
+> - Tech stack
 > - Features
 > - Dependencies
-> - Setup guide
-> - Live site link
+> - Setup instructions
+> - Live site & GitHub repo links
 
 ---
 
-_Thanks for visiting my profile! Feel free to connect and collaborate. 🚀_
+_Thanks for stopping by! Feel free to connect and collaborate with me on exciting projects._ 🚀  
