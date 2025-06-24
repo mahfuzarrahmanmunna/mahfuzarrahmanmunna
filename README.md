@@ -30,12 +30,6 @@ Hello! I'm Munna, a passionate and dedicated web developer currently studying Di
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,github,vscode,figma" />
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahfuzarrahmanmunna&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mahfuzarrahmanmunna&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzarrahmanmunna&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 
 ---
 
