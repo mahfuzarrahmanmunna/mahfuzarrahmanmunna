@@ -75,43 +75,8 @@ I’m also ambitiously preparing to pursue my **BSc in CSE in Japan under the pr
 
 ---
 
-## 📌 Pinned Projects
 
-### 🔐 Firebase Auth App
-- Live: [https://auth-app.web.app](https://auth-app.web.app)  
-- Tech Stack: React, Firebase, Tailwind CSS  
-- Simple login & registration using Firebase Auth (email + Google), private routes, and real-time error handling.
 
----
-
-### 🏫 Course Management System
-- Live: [https://course-mgmt.web.app](https://course-mgmt.web.app)  
-- Tech Stack: React, Firebase, Express, MongoDB  
-- Users can register/login, post & enroll in courses, track seats, and admin roles. Includes authentication and dark/light theme.
-
----
-
-### 🚚 Parcel Delivery Web App
-- Live: [https://parcel-app.web.app](https://parcel-app.web.app)  
-- Tech Stack: React, Firebase, Leaflet, Node.js  
-- Users can create/send parcels, see service areas on map, calculate cost, and track delivery with a unique ID.
-
----
-
-> 🔗 Each of these projects has a detailed README with:
-> - Overview
-> - Screenshot (optional)
-> - Tech stack
-> - Features
-> - Dependencies
-> - Setup instructions
-> - Live site & GitHub repo links
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=✨+Thank+you+for+visiting+my+GitHub+profile!+✨" alt="Thank You Typing" />
-</p>
-
+_Thank you for visiting my GitHub profile! 😊_  
 
 
