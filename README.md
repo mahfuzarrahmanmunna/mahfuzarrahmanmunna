@@ -25,9 +25,6 @@ I’m also ambitiously preparing to pursue my **BSc in CSE in Japan under the pr
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mdmahfuzarrahmanmunna44@gmail.com)
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuzarrahmanmunna&theme=react-dark&hide_border=true" />
-</p>
 
 ---
 
@@ -76,6 +73,11 @@ I’m also ambitiously preparing to pursue my **BSc in CSE in Japan under the pr
 ![Munna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfuzarrahmanmunna&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuzarrahmanmunna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuzarrahmanmunna&theme=react-dark&hide_border=true" />
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mahfuzarrahmanmunna&theme=radical)](https://git.io/streak-stats)
 
