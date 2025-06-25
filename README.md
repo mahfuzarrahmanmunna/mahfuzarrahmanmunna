@@ -23,6 +23,12 @@ I’m also ambitiously preparing to pursue my **BSc in CSE in Japan under the pr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mahfuzar-rahman-munna-41a342351/)  
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://facebook.facebook.com/profile.php?id=61558381851640)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mdmahfuzarrahmanmunna44@gmail.com)
+
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuzarrahmanmunna&theme=react-dark&hide_border=true" />
+</p>
+
 ---
 
 ## 🚀 I’m Exploring
