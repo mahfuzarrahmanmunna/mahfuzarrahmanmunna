@@ -2,17 +2,23 @@
 <img src="https://i.ibb.co/ynwXbwLP/banner-github-mahfuzar-rahman-munna-web-developer-mern-stack.png" alt="Banner" style="width:100%;" />
 
 # 💻 Md. Mahfuzar Rahman Munna
-### MERN Stack Developer | Firebase Enthusiast | Aspiring MEXT Scholar
+### Full-Stack Developer | MERN • Next.js • Python DRF • PostgreSQL
 
 ---
 
 ## 🧑‍💻 About Me
 
-Hey there! I'm **Md. Mahfuzar Rahman Munna**, a highly motivated and detail-oriented web developer with a strong foundation in the MERN stack (MongoDB, Express.js, React, Node.js) and Firebase ecosystem. Currently pursuing my Diploma in Computer Science & Engineering, I’m driven by a deep passion for solving real-world problems through code and clean UI/UX design.
+I am a passionate Full Stack Web Developer with hands-on experience in developing modern, scalable, and user-centric web applications using the JavaScript and Python ecosystems.
 
-I improve in dynamic environments where I can build, learn, and grow. My development style focuses on performance, accessibility, and maintainable code. From crafting responsive frontend interfaces to integrating secure backend APIs, I enjoy working across the full development lifecycle.
+In the frontend side, I am proficient in using React and Next.js to deliver fast, responsive, and SEO-friendly user interfaces. On the backend side, I have hands-on experience using Node.js, Express.js, as well as Python's Django Rest Framework (DRF) to deliver robust and efficient RESTful API endpoints. Additionally, I have experience using PostgreSQL and MongoDB as databases.
 
-I’m also ambitiously preparing to pursue my **BSc in CSE in Japan under the prestigious MEXT scholarship**, with the vision of contributing to global tech innovations while staying rooted in real-world needs.
+I have developed a number of projects involving authentication, role-based access control, admin panels, booking systems, and full-stack applications. My passion is to deliver clean architecture, performance, and maintainable code.
+
+I am always eager to learn and improve my skills. I am seeking opportunities where I can learn and grow as a developer.
+
+Tech Stack:
+React • Next.js • JavaScript • Node.js • Express.js • Python • Django Rest Framework (DRF) • PostgreSQL • MongoDB • Firebase • Tailwind CSS • REST API • Git & GitHub
+
 
 > 🚀 “I don’t just build apps — I build solutions that make an impact.”
 
@@ -20,7 +26,7 @@ I’m also ambitiously preparing to pursue my **BSc in CSE in Japan under the pr
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mahfuzar-rahman-munna-41a342351/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/mdmahfuzarrahman-munna)  
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://facebook.facebook.com/profile.php?id=61558381851640)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mdmahfuzarrahmanmunna44@gmail.com)
 
@@ -36,16 +42,6 @@ I’m also ambitiously preparing to pursue my **BSc in CSE in Japan under the pr
 - 🌍 **Leaflet.js** – working with interactive maps and geo-based data
 - 📦 **MongoDB Aggregation** – handling complex queries and analytics
 - 🎨 **Framer Motion** – adding smooth animations to modern UIs
-
----
-
-### 🔭 Current Activities
-
-- 🌱 Learning **Next.js** and **TypeScript**
-- 🛠 Working on a **Course Management System**
-- 🎯 Building a **Door-to-Door Parcel Delivery** app
-- 🚀 Preparing for the **MEXT scholarship**
-- 🔐 Exploring **JWT authentication & Firebase security**
 
 ---
 
