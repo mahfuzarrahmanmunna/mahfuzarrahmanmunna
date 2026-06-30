@@ -36,12 +36,11 @@ React • Next.js • JavaScript • Node.js • Express.js • Python • Djang
 
 ## 🚀 I’m Exploring
 
-- ⚡ **Next.js** – building fast, production-ready React apps with SSR and routing
-- 💡 **TypeScript** – writing safer, scalable JavaScript with strong typing
-- 🔐 **JWT & Role-Based Auth** – improving API security and user management
-- 🌍 **Leaflet.js** – working with interactive maps and geo-based data
-- 📦 **MongoDB Aggregation** – handling complex queries and analytics
-- 🎨 **Framer Motion** – adding smooth animations to modern UIs
+- 🐳 Docker – containerizing applications for consistent development and deployment
+- ⚙️ CI/CD Pipelines – automating testing, building, and deployment workflows
+- ☸️ Kubernetes – exploring container orchestration and scalable infrastructure
+- 🌐 Nginx – learning reverse proxy, load balancing, and production web server configuration
+
 
 ---
 
